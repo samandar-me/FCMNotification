@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332006700785",
+    "project_id": "fcmjetpack",
+    "storage_bucket": "fcmjetpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332006700785:android:bf7a4668979eff9ee85b50",
+        "android_client_info": {
+          "package_name": "com.example.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332006700785-io7fshit04mtcnge2350dnt2mu25mlmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlputcE2_8BT9qLvo9ItqgPlt1JOi_gs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332006700785-io7fshit04mtcnge2350dnt2mu25mlmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
